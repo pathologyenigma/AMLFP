@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"patho"
+	],
+	"copyright": "Copyright © 2021, patho",
+	"dependencies": {
+		
+	},
+	"description": "try to write vectors in d",
+	"license": "MIT",
+	"name": "vectors",
+	"targetType": "library"
+}
